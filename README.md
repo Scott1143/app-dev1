@@ -1,7 +1,6 @@
 # app-dev1
 My first repository
 # MY FAVORITE MOVIES
-
 ## Action/Comedy
 
 **Movies**
