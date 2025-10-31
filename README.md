@@ -4,6 +4,6 @@ My first repository
 ## Action/Comedy
 
 **Movies**
-1.John Wick
-2.Hustle
-3.Ted
+1. John Wick
+2. Hustle
+3. Ted
